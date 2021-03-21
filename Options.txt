@@ -1,0 +1,3 @@
+LevelPowerupSet:
+1.LevelPowerupsDefault
+2.LevelPowerUpsDisabled

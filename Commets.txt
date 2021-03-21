@@ -1,0 +1,5 @@
+1. Si solo queremos un saco de monedas, solo debemos eliminar las lineas: 
+"FirstRewardParam": "draftodil",
+"FirstRewardType": "unlock_plant",
+
+2.

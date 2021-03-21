@@ -1,0 +1,111 @@
+Hola, esta lista contiene varios códigos de GirdItems, actualizada hasta la versión 8.4.1. Si notas que falta alguno reportarlo en los comentarios
+Esta lista se actualizará cada vez que salga algún nuevo Modificador de Entorno
+[04/10/2020]
+
+Lápidas:
+
+Lápida de Tutorial - gravestone_tutorial
+Lápida de Antiguo Egipto - gravestone_egypt
+Lápida de Mares Pirata - gravestone_pirate
+Lápida de Salvaje Oeste - gravestone_cowboy
+Lápida de Futuro Lejano - gravestone_future
+Lápida de Edad Oscura - gravestone_dark
+Lápida de Edad Oscura (Sol) - gravestoneSunOnDestruction
+Lápida de Edad Oscura (Nutriente) - gravestonePlantfoodOnDestruction
+Lápida de Arena - gravestone_battlez
+
+Carros de Mina:
+
+Carros de Mina de Tiempos Modernos - railcart_tutorial
+Carros de Mina del Salvaje Oeste - railcart_cowboy
+
+Casillas poderosas:
+
+Casilla poderosa (Alpha) - powertile_alpha
+Casilla poderosa (Beta) - powertile_beta
+Casilla poderosa (Gamma) - powertile_gamma
+Casilla poderosa (Delta) - powertile_delta
+Casilla poderosa (Epsilon) - powertile_epsilon
+
+Pociones Malignas:
+
+Pocion maligna (naranja) - zombiepotion_speed
+Pocion maligna (púrpura) - zombiepotion_toughness
+
+Objetos de Playa de la Gran Ola:
+
+Tabla de surf - surfboard
+Pulpo del Zombi Pulpo - planttarget_squid
+
+Deslizadores:
+
+Deslizador ARRIBA (Cuevas Congeladas) - slider_up
+Deslizador ABAJO (Cuevas Congeladas) - slider_down
+Deslizador ARRIBA (Tiempos Modernos) - slider_up_modern
+Deslizador ABAJO (Tiempos Modernos) - slider_down_modern
+
+Objetos de la Ciudad Perdida:
+
+Tienda del Zombi Portero - tent
+Mochila del Zombi Portero - backpack
+Casilla de Trampa de roca - boulder_trap_falling_forward
+Casilla de Trampa de roca (Zomboss) - zomboss_boulder_trap_falling_forward
+Casilla de Trampa de fuego - flame_spreader_trap
+Casilla dorada - goldtile
+
+Objetos del Vueltacasete de Neón:
+
+Maquina de arcade - eightiesarcadecabinet
+Parlate (Zomboss) - speaker_zomboss
+Parlante - speaker
+
+Portales:
+
+Portal Antiguo Egipto - zombieportal_egypt
+Portal Mares Pirata - zombieportal_pirate
+Portal Salvaje Oeste - zombieportal_west
+Portal Futuro Lejano - zombieportal_future
+Portal Edad Oscura - zombieportal_dark
+Portal Playa de la Gran Ola - zombieportal_beach
+Portal Cuevas Congeladas - zombieportal_iceage
+Portal Ciudad Perdida - zombieportal_lostcity
+Portal Vueltacasete de Neón - zombieportal_eighties
+Portal Pantano del Jurásico - zombieportal_dino
+Portal Tiempos Modernos - zombieportal_modern
+Portal de Zombies Romanos - zombieportal_rome
+Portal Time-Twister (Futuro Lejano) - zombieportal_future_2
+
+Portales de Zona del Infinito:
+
+Portal Antiguo Egipto (Dangerrom) - zombieportal_dangerroom_egypt
+Portal Mares Pirata (Dangerroom) - zombieportal_dangerroom_pirate
+Portal Salvaje Oeste (Dangerrom) - zombieportal_dangerroom_west
+Portal Futuro Lejano (Dangerrom) - zombieportal_dangerroom_future
+Portal Edad Oscura (Dangerrom) - zombieportal_dangerroom_dark
+Portal Playa de la Gran Ola (Dangerrom) - zombieportal_dangerroom_beach
+Portal Cuevas Congeladas (Dangerrom) - zombieportal_dangerroom_iceage
+Portal Ciudad Perdida (Dangerrom) - zombieportal_dangerroom_lostcity
+Portal Vueltacasete de Neón (Dangerrom) - zombieportal_dangerroom_eighties
+Portal Pantano del Jurásico (Dangerrom) - zombieportal_dangerroom_dino
+
+Objetos de Arena:
+
+Casilla de nutriente - boosttile5
+Score Tile 2x - score_2x_tile
+Score Tile 3x - score_3x_tile
+Score Tile 5x - score_5x_tile
+Posión Tile - poison_tile
+
+Otros:
+
+Zombi Estatua de Marmol - zombietarget_stoneblock
+Regalo Sorpresa - zombietarget_birthday_present
+Bastón del Zombi Curandero - roman_healer_staff
+Crater Infinito - crater
+Crater Temporal - crater_timed
+Sabia de Lanzasabia - sap
+Sabia de Lanzasabia Nutriente (dura más) - plantfoodsap
+Lava de Guayalava - lava
+Fuego de Calabaza Iluminada - wisp
+Dusk Lobber's Plant Food Flower - dusklobberflower
+Semillas explosivas de Petagranada - bombegranateseeds

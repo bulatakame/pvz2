@@ -1,0 +1,364 @@
+hola, Bienvenidos a mi lista, si no saben soy QWERTYUIOPASDFGHJKLÑZXCVBNM (QWER o SpeC en resumidas palabras) y hoy les traigo esta "INCREIBLE" lista de Zombies para el video de blanked. Disfruta y aprende.
+
+Antiguo egipto:
+
+Zombi Momia - mummy 
+Zombi Momia Cara-cono - mummy_armor1
+Zombi Momia Cara-cubo - mummy_armor2
+Zombi Momia Cara-pirámide - mummy_armor4
+Zombi Momia Abanderado - mummy_flag
+Zombi Momia Abanderado Veterano - mummy_flag_veteran
+Zombi Ra - ra
+Zombi Levantatumbas - tomb_raiser
+Zombi Explorador - explorer
+Zombi Antorcha - explorer_veteran
+Zombi Faraón - pharaoh
+Zombi Camello (3 camellos) - camel_onehump  
+Zombi Camello (4 camellos) - camel_twohump  
+Zombi Camello (6 camellos) - camel_manyhump 
+Zombistein Momificado - egypt_gargantuar
+Zombidito Momia - egypt_imp
+Zombi Cleopatra (Sin usar/No texturas) - cleopatra
+
+Mares piratas:
+
+Zombi Pirata - pirate
+Zombi Pirata Cara-cono - pirate_armor1
+Zombi Pirata Cara-cubo - pirate_armor2
+Zombi Pirata Cara-Tonel - pirate_armor4
+Zombi Pirata Abanderado - pirate_flag
+Zombi Pirata Abanderado Veterano - pirate_flag_veteran
+Zombi Espadachín - swashbuckler
+Zombi Gaviotero - seagull
+Zombi Pelicanero - pelican
+Zombi Tonelero - barrelroller
+Barril - pirate_barrel
+Zombi Capitán Pirata - pirate_captain
+Loro Zombi - pirate_captain_parrot
+Cañon Zombidito - cannon
+Zombistein Pirata - pirate_gargantuar
+Zombidito Pirata - pirate_imp
+Zombie barril (pvzA/sin texturas/sin usar) - pvza_barrel
+
+Salvaje oeste:
+
+Zombi Vaquero - cowboy
+Zombi Vaquero Cara-cono - cowboy_armor1
+Zombi Vaquero Cara-cubo - cowboy_armor2
+Zombi Vaquero Cara-carro - cowboy_armor4
+Zombi Vaquero Abanderado - cowboy_flag
+Zombi Vaquero Abanderado Veterano - cowboy_flag_veteran
+Zombi Buscador de Oro- prospector
+Zombi Pianista - piano
+Zombi Poncho (random) - poncho
+Zombi Poncho (no metal) - poncho_no_plate
+Zombi Poncho (metal) - poncho_plate
+Zombi Gallinero - chicken_farmer
+Pollo Zombi - chicken
+Toro Zombi - west_bull
+Toro Leyenda del rodeo - west_bull_veteran
+Zombistein Vaquero - cowboy_gargantuar
+Zombidito Vaquero - west_bullrider
+
+Futuro lejano:
+
+Zombi Futuro - future
+Zombi Futuro Cara-cono - future_armor1
+Zombi Futuro Cara-cubo - future_armor2
+Zombi Futuro Cara-holograma - future_armor4
+Zombi Futuro Abanderado - future_flag
+Zombi Futuro Abanderado Veterano - future_flag_veteran
+Zombi Futuro Propulsado - future_jetpack
+Zombi Explotastronauta - future_jetpack_veteran
+Zombi Robocono - mech_cone
+Zombi Escudo - future_protector
+Zombi Mecanizado de Football - football_mech
+Disco-tron 3000 - disco_mech
+Zombie Propulsado disco - future_jetpack_disco
+Deflector (Sin usar/Con texturas) - future_protector_veteran
+Robocono Veterano (Sin usar/Con texturas) - mech_cone_veteran
+Zombistein Prime - future_gargantuar
+Zombidito Bicho Robot - future_imp
+
+Edad Oscura:
+
+Zombi Campesino - dark
+Zombi Campesino Cara-cono - dark_armor1
+Zombi Campesino Cara-cubo - dark_armor2
+Zombi Caballero - dark_armor3
+Zombi Campesino Cara-torre (Sin usar/Sin texturas) - dark_armor4
+Zombi Campesino Abanderado - dark_flag
+Zombi Campesino Abanderado Veterano (Sin usar/Sin texturas) - dark_flag_veteran
+Zombi Bufón - dark_juggler
+Zombi Mago - dark_wizard
+Zombi Mago Veterano (Sin usar/Sin texturas) - dark_wizard_veteran
+Zombi Rey - dark_king
+Zombistein Campesino - dark_gargantuar
+Zombidito Monje - dark_imp
+Zombidito Dragon - dark_imp_dragon
+
+Playa de la gran ola:
+
+Zombi Pompadour - beach
+Zombi Pompadour Cara-cono - beach_armor1
+Zombi Pompadour Cara-cubo - beach_armor2
+Zombi Bikini - beach_fem
+Zombi Bikini Cara-cono - beach_fem_armor1
+Zombi Bikini Cara-cubo - beach_fem_armor2
+Zombie Playero Abanderado - beach_flag
+Zombi Buzo - beach_snorkel
+Zombi Surfista - beach_surfer
+Zombi Pescador - beach_fisherman
+Pulpo Zombi - beach_octopus
+Zombistein de las profundidades - beach_gargantuar
+Zombidito sirena - beach_imp
+
+Cuevas congeladas:
+
+Zombi Cavernario - iceage
+Zombi Cavernario Cara-cono - iceage_armor1
+Zombi Cavernario Cara-cubo - iceage_armor2
+Zombi Cavernario Cara-bloque - iceage_armor3
+Zombi Cavernario Abanderado - iceage_flag
+Zombi Cazador - iceage_hunter
+Zombi Jinete de Dodo - iceage_dodo
+Zombi Troglobocado (3 bloques) - iceage_troglobite
+Zombi Troglobocado (2 bloques) - iceage_troglobite_2block
+Zombi Troglobocado (1 bloque) - iceage_troglobite_1block
+Zombi Comadreja - iceage_weaselhoarder
+Zombistein Perezoso - iceage_gargantuar
+Zombidito Yeti - iceage_imp
+
+Ciudad Perdida:
+
+Zombi Aventurero - lostcity
+Zombi Aventurero Cara-cono - lostcity_armor1
+Zombi Aventurero Cara-cubo - lostcity_armor2
+Zombi Aventurero Abanderado - lostcity_flag
+Zombi Piloto - lostcity_lostpilot
+Zombi Excavador - lostcity_excavator
+Zombi Parasol - lostcity_jane
+Zombicho - lostcity_bug
+Zombicho (Cara-cono) - lostcity_bug_armor1
+Zombicho (Cara-cubo) - lostcity_bug_armor2
+Zombidito trasportador - lostcity_impporter
+Zombi Cazador de Reliquias - lostcity_relichunter
+Zombi Calavera Turquesa - lostcity_crystalskull
+Zombistein Porteador - lostcity_gargantuar
+Zombidito Aventurero - lostcity_imp
+
+Vueltacasete de Neon:
+
+Zombi Neón - eighties
+Zombi Neón Cara-cono - eighties_armor1
+Zombi Neón cara-cubo - eighties_armor2
+Zombi Neón abanderado - eighties_flag
+Zombi Punk - eighties_punk
+Zombi Purpurina - eighties_glitter
+Zombi Rapero - eighties_mc
+Zombi Breakdancer - eighties_breakdancer
+Zombi Arcade - eighties_arcade
+Zombi 8-bit - eighties_8bit
+Zombi 8-bit (Cara-cono) - eighties_8bit_armor1
+Zombi 8-bit (cara-cubo) - eighties_8bit_armor2
+Zombi Radiocasetero - eighties_boombox
+Zombistein Melena del Metal - eighties_gargantuar
+Zombidito punk - eighties_imp
+
+Pantano del Jurásico:
+
+Zombi Jurásico - dino
+Zombi Jurásico Cara-cono - dino_armor1
+Zombi Jurásico Cara-cubo - dino_armor2
+Zombi Jurásico Cara-fósil - dino_armor3
+Zombi Jurásico cara-ámbar - dino_armor4
+Zombi Jurásico Abanderado - dino_flag
+Zombi Jurásico Abanderado Veterano - dino_flag_veteran
+Zombi Matón Jurásico - dino_bully
+Zombi Puñorroca Jurásico - dino_bully_veteran
+
+Tiempos modernos: 
+
+Zombi Básico - tutorial
+Zombi Cara-cono - tutorial_armor1
+Zombi Cara-cubo - tutorial_armor2
+Zombi Cara-ladrillo - tutorial_armor4
+Zombi Abanderado - tutorial_flag
+Zombi Abanderado Veterano - tutorial_flag_veteran
+Zombi Globo tutorial (sin usar) - tutorial_balloon
+Zombi con Globo - modern_balloon
+Zombi Lector - modern_newspaper
+Zombi Dominical - newspaper_veteran
+Zombi All-Star - modern_allstar
+Zombidito Súper-fan - modern_superfanimp
+Zombistein - tutorial_gargantuar
+Zombidito - tutorial_imp
+
+Batallaz / Arena:
+
+Cardio Zombi (Fase 1) - general_treadmill_phase1
+Cardio Zombi (Fase 2) - general_treadmill_phase2
+Cardio Zombi (Fase 3) - general_treadmill_phase3
+Zombi Z-Mech (Fase 1) - general_zmech_phase1
+Zombi Z-Mech (Fase 2) - general_zmech_phase2
+Zombi Z-Mech (Fase 3) - general_zmech_phase3
+
+Antigua Roma:
+
+Zombi Romano - roman
+Zombi Romano Cara-cono - roman_armor1
+Zombi Romano Cara-cubo - roman_armor2
+Zombi Romano Centurión - roman_armor3
+Zombi Romano Cara-busto - roman_armor4
+Zombi Romano Abanderado - roman_flag
+Zombi Romano Curandero - roman_healer
+Zombi Escudo Romano 1 - roman_shield_top
+Zombi Escudo Romano 2 - roman_shield_triad
+Zombi Escudo Romano 3 - roman_shield_pair
+Zombi Escudo Romano 4 - roman_shield_almanac
+Zombi Escudo Romano 5 - roman_shield_segment
+Zombi Ezcorpión - roman_ballista
+Zombi Medusa - roman_medusa
+Zombi Bloque de Porcelana - stone_block
+Zombistein Gladiador - roman_gargantuar
+Zombidito Romano - roman_imp
+
+Corporativa Z-Corp:
+
+Zombi ZCorp - zcorp
+Zombi ZCorp Cara-cono - zcorp_armor1
+Zombi ZCorp Cara-cubo zcorp_armor2
+Zombi Contratista - zcorp_fem
+Zombi Contratista Cara-cono - zcorp_fem_armor1
+Zombi Contratista Cara-cubo - zcorp_fem_armor2
+Zombi Corporativo Abanderado - zcorp_flag
+Zombidistein ZCorp - zcorp_gargantuar
+Zombidisteindito ZCorp - zcorp_imp
+Zombi Consultora - zombie_zcorp_consultant
+Zombi Asistente ZCorp - zombie_zcorp_helpdesk
+
+Valenbrainz:
+
+Zombi San Valentin - valentines
+Zombi San Valentin Cara-cono - valentines_armor1
+Zombi San Valentin Cara-cubo - valentines_armor2
+Zombi San Valentin Cara-??? (Sin usar/Sin texturas) - valentines_armor3
+Zombie San Valentin Abanderado - valentines_flag
+Zombistein de San Valentin - valentines_gargantuar
+Zombidito Cupido - valentines_imp
+
+Fortuna del Zombi:
+
+Zombi Fortuna  - stpatrick
+Zombi Fortuna Cara-cono - stpatrick_armor1
+Zombi Furtuna Cara-cubo - stpatrick_armor2
+Zombidito Duende - leprachaun_imp
+Zombidito Duende Jinete de Dodo - leprachaun_dodo
+
+Primavera Evento de Pascua:0
+
+Zombi Primavera - spring
+Zombi Primavera Cara-cubo - spring_armor1
+Zombi Primavera Cara-cono - spring_armor2
+Zombi Primavera Abanderado - spring_flag
+Zombidito Primavera - spring_imp
+Zombi Poncho Primavera - spring_poncho
+Zombi Mago Primavera - spring_wizard
+Zombi camello de Primavera (3 camellos) - spring_camel_onehump
+Zombi camello de Primavera (4 camellos) - spring_camel_twohump
+Zombi camello de Primavera (6 camellos) - spring_camel_manyhump
+Zombi Troglobocado Primavera (3 bloques) - easter_troglobite
+Zombi Troglobocado Primavera (2 bloques) - easter_troglobite_2block
+Zombi Troglobocado Primavera (1 bloque) - easter_troglobite_1block
+Zombistein Primavera - spring_gargantuar
+
+Cumpleaños de PVZ2:
+
+Zombie Cumpleañero - birthday
+Zombi Cumpleañero Jetpack - birthday_jetpack
+Zombi Bufón Cumpleañero - biethday_juggler
+Zombi Tonelero Cumpleañero - birthday_barrel
+Zombi Faraón Cumpleañero - birthday_pharaoh
+Zombi Troglobocado Cumpleañero (1 bloque) - birthday_troglobite_1block
+Zombi Troglobocado Cumpleañero (2 bloques) - birthday_troglobite_2block
+Zombi Troglobocado Cumpleañero (3 bloques) - birthday_troglobite
+Tartatanque - caketank
+
+Noches de Verano:
+
+Zombi de Verano - summer_basic
+Zombie de Verano Cara-cono - summer_armor1
+Zombie de Verano Cara-cubo - summer_armor2
+Zombie de Verano Abanderado - summer_flag
+Zombistein Chef - summer_gargantuar 
+Zombidito salchicha - summer_imp
+
+Grandes Cerebroz:
+
+Zombi Big Brainz - bighead
+Zombi Big Brainz Cara-cono - bighead_armor1
+Zombi Big Brainz Cara-cubo - bighead_armor2
+Zombi Big Brainz Abanderado - bighead_flag
+Zombi Barril Big Brainz - bighead_barrelroller
+Barril de Big Brainz - bighead_barrel
+Zombi Lector Big Brainz - bighead_newspaper
+Zombi con Globo Big Brainz - bighead_balloon
+Zombi All stars Big Brainz - bighead_allstar
+Zombidito Super Fan Big Brainz - bighead_superfan
+Zombistein Big Brainz - bighead_gargantuar
+Zombidito Big Brainz - bighead_imp
+
+Césped del Terror: 
+
+Zombi Esqueleto - halloween
+Zombi Esqueleto Cara-cono - halloween_armor1
+Zombi Esqueleto Cara-cubo - halloween_armor2
+Zombi Calabaza Abanderado - halloween_flag
+Zombi Camello Esqueletico - halloween_camel_twohump
+Zombistein Frankenstein - halloween_gargantuar
+Zombidito de halloween - halloween_imp
+
+Promoción a PVZH:
+
+Zombi normal (Heroe/sin texturas) - hero_electricboogaloo
+Zombi Propulsor (Heroe/sin texturas) - hero_rustbolt
+Zombi Grandulon (Heroe/sin texturas) - hero_superbrainz
+Zombi Barril (Heroe/sin texturas) - hero_barrel
+Zombi Troglobocado (Heroe/sin texturas) - hero_barrelroller
+Zombistein normal (Heroe/sin texturas) - hero_smash
+Zombidito Normal (Heroe/sin texturas) - hero_impfinity
+
+Pelea de Comidas:
+
+Zombi de Acción de Gracias - foodfight
+Zombi de Acción de Gracias Cara-cono - foodfight_armor1
+Zombi de Acción de Gracias Cara-cubo - foodfight_armor2
+Zombi de Acción de Gracias Abanderado - foodfight_flag
+Zombi Bufón Chef - foodfight_chefster
+Zombi Pavo - foodfight_gobbler_king
+Pavo - foodfight_turkey
+
+Feastivus:
+
+Zombi Navideño - feastivus
+Zombi Navideño Cara-cono - feastivus_armor1
+Zombi Navideño Cara-cubo - feastivus_armor2
+Zombi Navideño Abanderado - feastivus_flag
+Zombi Navideño Espadachin - feastivus_swashbuckler
+Zombi Navideño Camello (3 camellos) - feastivus_camel_onehump
+Zombi Navideño Camello (4 camellos) - feastivus_camel_twohump
+Zombi Navideño Camello (6 camellos) - feastivus_camel_manyhump
+Zombi Poncho Navideño - feastivus_poncho
+Zombi Navideño Pianista - feastivus_piano
+Zombi Navideño Troglobocado (3 bloques) - feastivus_troglobite
+Zombi Navideño Troglobocado (2 bloques) - feastivus_troglobite_2block
+Zombi Navideño Troglobocado (1 bloque) - feastivus_troglobite_1block
+ 
+Otros:
+
+Zombi Yeti del Tesoro - treasureyeti
+
+Eso seria todo, espero que les ayude en sus niveles de blanked
+Copyright 2020 QWERTYUIOPASDFGHJKLÑZXCVBNM Never Rob that and say you create that
+creada por QWERTYUIOPASDFGHJKLÑZXCVBNM (QWER o SpeC) con ayuda de blanked
+adios.

@@ -1,0 +1,219 @@
+Hola, esta lista contiene todos los códigos de todas las plantas hasta la versión 8.7.1. Si notas que falta alguna planta reportarlo en los comentarios. Esta lista se actualizará cada vez que salga una nueva planta en el juego. [04/02/2021]
+
+Tutorial:
+
+Girasol - sunflower
+Lanzaguisantes - peashooter
+Nuez - wallnut
+Papapum - potatomine
+Coltapulta - cabbagepult
+
+Antiguo Egipto:
+
+Bumerán - bloomerang
+Lechuga Iceberg - iceburg
+Comepiedras - gravebuster
+Birasol - twinsunflower
+Bonk Choy - bonkchoy
+Repetidora - repeater
+
+Mares Piratas:
+
+Lanzamaíz - kernelpult
+Boca de Dragón - snapdragon
+Pinchohierba - spikeweed
+Cococañón - coconutcannon
+Petacereza - cherry_bomb
+Frijuelle - springbean
+Pinchorroca - spikerock
+Tripitidora - threepeater
+
+Salvaje Oeste:
+
+Bipetidora - splitpea
+Frijol - chilibean
+Junco Eléctrico - lightningreed
+Nuez Cáscara-rabias - tallnut
+Vaina - peapod
+Melonpulta - melonpult
+Melonpulta congelada - wintermelon
+
+Futuro Lejano:
+
+Frijol Láser - laser_bean
+Trebolador - blover
+Pomelo - citron
+P.E. Melocotonético - empea
+Nuez Infinita - holonut
+Hierba Lupa - magnifyinggrass
+Rábano Casillero - powerplant
+
+Edad Oscura:
+
+Seta Solar - sunshroom
+Seta Desesporada - puffshroom
+Humoseta - fumeshroom
+Frijol Solar - sunbean
+Magnetoseta - magnetshroom
+
+Playa de la Gran Ola:
+
+Nenúfar - lilypad
+Zampalga - tanglekelp
+Bulbo de Bolera  -  bowlingbulb
+Guacodrilo - guacodile
+Lanzaplátanos - banana
+
+Cuevas Congeladas:
+
+Papa Caliente - hotpotato
+Lanzachiles - pepperpult
+Guardaselga - chardguard
+Cebolla Aturdidora - stunion
+Rotinabo - xshot
+
+Ciudad Perdida:
+
+Aguijón Rojo - redstinger
+A.K.E.E. - akee
+Endurián - endurian
+Paralia - stallia
+Hoja Dorada - goldleaf
+
+Vueltacasete de Neón:
+
+Remolacha Tremenda - phatbeet
+Apio Furtivo - celerystalker
+Tomillo Tiempillo - thymewarp
+Ajo - garlic
+Seta Esporada - sporeshroom
+Zanahoria Intensiva - intensivecarrot
+
+Pantano del Jurásico:
+
+Lanzaguisantes Primitivo - primalpeashooter
+Nuez Primitiva - primalwallnut
+Girasol Primitivo - primalsunflower
+Papapum Primitiva - primalpotatomine
+Seta Perfumada - perfumeshroom
+
+Tiempos Modernos:
+
+Flor Lunar - moonflower
+Solanácea - nightshade
+Sombraseta - shadowshroom
+Lanzadora oscura - dusklobber
+Siniestrosa - grimrose
+
+Plantas Premium:
+
+Hielaguisantes - snowpea
+Lirio Poderoso - powerlily
+Plantorcha - torchwood
+Imitadora - imitater
+Planta Carnívora - chomper
+Hongo - toadstool
+Fragaria - strawburst
+Cactus - cactus
+Arándano Eléctrico - electricblueberry
+Calabaza Iluminada - jackolantern
+Uva de Racimo - grapeshot
+Bocadragón Gélido - coldsnapdragon
+Raíz de Escape - escaperoot
+Florecimiento Dorado - goldbloom
+Látigo Wasabi - wasabiwhip
+Kiwibestia - kiwibeast
+Manzana Mortero - applemortar
+Bruja Avellana - witchhazel
+Podarábano - parsnip
+Muérdago Misil - missiletoe
+Colipoder - caulipower
+Lanzaguisantes Eléctrico - electricpeashooter
+Barrera de Acebo - hollyknight
+
+Plantas Gemium:
+
+Apisonaflor - squash
+Jalapeño - jalapeno
+Hipnoseta - hypnoshroom
+Cacahuete - peanut
+Cardo Teledirigido - homingthistle
+Chile Fantasma - ghostpepper
+Boniato - sweetpotato
+Lanzasabia - sapfling
+Huracol - hurrikale
+Lanzaguisantes de Fuego - firepeashooter
+Guayalava - lavaguava
+Violeta Reductora - shrinkingviolet
+Grosella Eléctrica - electriccurrant
+
+Plantas de Semillas:
+
+Frustrella - starfruit
+Diente de León - dandelion
+Corazón floreciente - bloominghearts
+Petagranada - bombegranate
+Explotonuez - explodeonut
+Aloe - aloe
+Cita Ardiente - hotdate
+Tomate Solar - solartomato
+Lanzaguisantes Sombrío - shadowpeashooter
+Lanzaguisantes Pringoso - poisonpeashooter
+Tiraguisantes - slingpea
+Lanzaguisantes Carnívoro - snappea
+Vaina de Zoja - zoybeanpod
+Té Eléctrico - electricitea
+Florecillas Aturdidoras - dazeychain
+Enredadera Explosiva - blastberry
+Pokra - pokra
+Pera Zombidita - imppear
+Enredadera Candelera - pyrevine
+Calabaza - pumpkin
+Florecimiento helado - icebloom
+Dardachofa - dartichoke
+Tomatefinitivo - ultomato
+Nuez Chicletera - gumnut
+Enredadera Reluciente - shinevine
+Rodadora - tumbleweed
+Pozoliva - olivepit
+Seta bejín - puffball
+Explotorredadera - explodeovine
+Nuez de Murkadamia - murkadamia
+Pavopulta - turkeypult
+Lechuga Mantecosa - headbutter
+Muelleta -  boingsetta
+Arroz Bomba Pegajosa - stickybombrice
+Alazafrán - hocus
+Enredadera Nefasta - gloomvine
+Narcisil - draftodil
+
+Mentas Poderosas:
+
+Fila-Menta - filamint
+Menta-Piperita - peppermint
+Menta-Invernal - wintermint
+Ilumina-Menta - enlightenmint
+Reforza-Menta - reinforcemint
+Bomba-Menta - bombardmint
+Enfer-Menta - ailmint
+Arma-Menta - armamint
+Apacigua-Menta - appeasemint
+Deteni-Menta - containmint
+Encanta-Menta - enchantmint
+Encubri-Menta - concealmint
+Lanza-Menta - spearmint 
+Forza-Menta - enforcemint
+
+Otros:
+
+Margarita - marigold
+Casilla Poderosa (Alpha) - tool_powertile_alpha
+Casilla Poderosa (Beta) - tool_powertile_beta
+Casilla Poderosa (Gamma) - tool_powertile_gamma
+Casilla Poderosa (Delta) - tool_powertile_delta
+Casilla Poderosa (Epsilon) - tool_powertile_epsilon
+Bulbo 1 (Pequeño) - tool_projectile_bowlingbulb1
+Bulbo 2 (Meediano) - tool_projectile_bowlingbulb2
+Bulbo 3 (Grande) - tool_projectile_bowlingbulb3
+Bulbo 4 (Explosivo) - tool_projectile_bowlingbulb_explode
+Bulbo 5 (Gigante) - tool_projectile_bowlingbulb_mega
